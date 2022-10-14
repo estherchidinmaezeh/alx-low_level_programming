@@ -8,7 +8,7 @@ int main(void)
 {
 	int Bnum;
 
-	for (Bnum = 0; Bnum < 10; Bnum++)
+	for (Bnum = 0; Bnum <= 10; Bnum++)
 		putchar(Bnum);
 	putchar('\n');
 	return (0);
