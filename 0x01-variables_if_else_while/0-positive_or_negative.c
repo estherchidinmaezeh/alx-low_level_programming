@@ -27,9 +27,5 @@ int main(void)
 		printf("%d", n);
 		printf(" is negative\n");
 	}
-	else
-	{
-		printf("INVALID");
-	}
 	return (0);
 }
